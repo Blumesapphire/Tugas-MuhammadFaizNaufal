@@ -1,2 +1,2 @@
 # Tugas-MuhammadFaizNaufal
-Tugas SEA Salon
+Untuk menjalankan program ini, run file benrama "main.py"
